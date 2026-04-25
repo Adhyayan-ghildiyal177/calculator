@@ -48,11 +48,3 @@ while True:
     choice = input("Do you want to continue? (yes/no): ")
     if choice.lower() != "yes":
         break
-import math
-
-elif op == "sqrt":
-    print(math.sqrt(num1))
-1. Add
-2. Subtract
-3. Multiply
-...
