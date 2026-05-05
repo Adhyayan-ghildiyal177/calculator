@@ -47,4 +47,4 @@ while True:
     
     choice = input("Do you want to continue? (yes/no): ")
     if choice.lower() != "yes":
-        break
+        break.
